@@ -2,4 +2,4 @@
 
 This is a basic Snake game
 
-Using pyturtle this 
+Using pyturtle this game
